@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I am studying Analysis and Development, and I would like to learn a little more about the subject of codes.
